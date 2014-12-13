@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 	<widget xmlns = "http://www.w3.org/ns/widgets"
 		xmlns:gap = "http://phonegap.com/ns/1.0"
-		id        = "com.yuinchinchen.中文戒賭"
+		id        = "com.yuinchinchen"
 		versionCode="1"
 		version   = "1.0">
-		<name>中文戒賭</name>
+		<name>w09</name>
 		<description>
 A simple APP to help Chinese People to quit Gambling. </description>
 		<author href="yuinchinchen.com" email="yuinchinchen@gmail.com">
 Johnson Chen
 		</author>
 		<preference name="phonegap-version" value="3.6.3" />
+		<preference name="android-installLocation" value="auto" />
+
 		<preference name="orientation" value="portrait" />
 		<preference name="target-device" value="universal" />
 		<preference name="fullscreen" value="false" />
@@ -29,8 +31,8 @@ Johnson Chen
 		<preference name="android-targetSdkVersion" value="14" />
 		<preference name="android-installLocation" value="auto" />
 		<preference name="splash-screen-duration" value="5000" />
-		<preference name="load-url-timeout" value="20000" />
-		<preference name="KeepRunning" value="true"/>
+		<!-- <preference name="load-url-timeout" value="20000" />
+		<preference name="KeepRunning" value="true"/> -->
 		<preference name="DisallowOverscroll" value="false"/>
 		<preference name="BackgroundColor" value="0xffffffff "/>
 
