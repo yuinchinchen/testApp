@@ -1,0 +1,28 @@
+body{background-color: #296415;}
+a{text-decoration: none;}
+.clearfix{width: 10%;
+margin: 20% auto;}
+span {font-size: 100px; color:#C1C622;
+	  background-color: #D20644;
+	  border-radius: 10px;}
+.pageContainer a{text-decoration: none;color: #fff;}	
+.pageContainer {width: 60%;
+margin: 5% auto;
+color:#FFFF33;}  
+.pageContainer h1{
+font-size: 50px;
+margin: 0% auto;
+text-align: center;
+}
+.pageContainer h2{
+font-size: 30px;
+margin: 0% auto;
+text-align: center;
+}
+.pageContainer1 {width: 13%;
+margin: 0% auto;
+border:2px solid #0000FF;
+background-color: red;
+min-width: 180px;
+}
+.pageContainer1 h1{color:#C1C622;font-size: 40px;text-align: center;}
