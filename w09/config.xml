@@ -30,8 +30,8 @@ Johnson Chen
 		<!-- <preference name="android-minSdkVersion" value="14" />
 		<preference name="android-targetSdkVersion" value="14" />
 		<preference name="android-installLocation" value="auto" /> -->
-		<preference name="splash-screen-duration" value="5000" />
-		<!-- <preference name="load-url-timeout" value="20000" />
+<!-- 		<preference name="splash-screen-duration" value="5000" />
+ -->		<!-- <preference name="load-url-timeout" value="20000" />
 		<preference name="KeepRunning" value="true"/> -->
 		<preference name="DisallowOverscroll" value="false"/>
 		<preference name="BackgroundColor" value="0xffffffff "/>
